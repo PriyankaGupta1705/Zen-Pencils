@@ -7,7 +7,8 @@ Dependency:
 
 1) Python 3.5.1 installed on your machine, to execute the script.
 
-2) Library requests-master and beautifulsoup4-4.4.1
+2) Library requests-master, beautifulsoup4-4.4.1, configparser
+
 
 
 How to use:
